@@ -70,3 +70,6 @@ Found Person [line=13, col=5]
 Found Person [line=24, col=5]
 Found Person [line=24, col=21]
 Found Person [line=25, col=9]
+
+6、subprocess的学习
+http://xstarcd.github.io/wiki/Python/python_subprocess_study.html
